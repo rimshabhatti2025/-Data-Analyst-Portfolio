@@ -163,6 +163,3 @@ This project successfully transforms HR data into **actionable insights** for em
 The dashboard enables HR leaders to identify at-risk groups, evaluate compensation and satisfaction factors, and **design data-backed retention programs**.
 
 ---
-
-## 🧩 Repository Tags  
-`#PowerBI` `#Excel` `#HRAnalytics` `#EmployeeAttrition` `#DataAnalytics` `#BusinessIntelligence`

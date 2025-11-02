@@ -101,8 +101,3 @@ This project transformed raw financial data into a **strategic management dashbo
 The result is a **visually dynamic, insight-driven decision tool** for finance and business leaders.  
 
 ---
-
-## 🧩 8. Repository Tags  
-`#PowerBI` `#Excel` `#SQL` `#FinanceDashboard` `#DataAnalytics` `#ProfitAnalysis` `#BusinessIntelligence`  
-
----
