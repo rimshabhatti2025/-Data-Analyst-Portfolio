@@ -75,11 +75,11 @@ This dashboard provides the answers with **clear visuals and DAX-powered KPIs**,
 ---
 
 ### 🛒 Category-Wise Performance
-| Category | Sales | Profit | Profit Impact % |
-|-----------|--------|--------|----------------|
-| Furniture | $741,999.80 | $18,451.27 | 15% |
-| Office Supplies | $719,047.03 | $122,490.80 | 160% |
-| Technology | $836,154.03 | $145,454.95 | 119% |
+| Category | Sales | Profit |
+|-----------|--------|--------|
+| Furniture | $741,999.80 | $18,451.27 |
+| Office Supplies | $719,047.03 | $122,490.80 |
+| Technology | $836,154.03 | $145,454.95 |
 
 ➡️ *Technology category drives highest profitability.*
 
@@ -198,6 +198,3 @@ This dashboard provides the answers with **clear visuals and DAX-powered KPIs**,
 This project translates raw sales data into **clear visual stories and actionable insights**, providing a **360° view of retail performance** for better strategic and operational decisions.  
 
 ---
-
-## 🧩 Repository Tags
-`#PowerBI` `#Excel` `#RetailAnalytics` `#SalesDashboard` `#DataAnalytics` `#BusinessIntelligence` `#SuperstoreDataset`
